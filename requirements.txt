@@ -1,0 +1,5 @@
+MLflow
+DVC
+FastAPI
+Docker
+pytest
