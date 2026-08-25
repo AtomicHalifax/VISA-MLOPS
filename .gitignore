@@ -25,3 +25,5 @@ mlruns/
 logs/
 
 *.log
+logs/
+.venv/
